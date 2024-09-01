@@ -1,0 +1,2 @@
+# STM32-AHT20-Thermometer-Hygrometer
+这是一个基于STM32F103C8T6微控制器和AHT20温湿度传感器制成的电子温湿度计项目，项目采用了OLED屏，通过I2C接口收集传感器采集到的数据并进行显示。
